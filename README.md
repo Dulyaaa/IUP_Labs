@@ -5,3 +5,4 @@
 * [Labsheet 04](https://github.com/Dulyaaa/IUP_Labs/tree/main/Labsheet%2004)
 * [Labsheet 05](https://github.com/Dulyaaa/IUP_Labs/tree/main/Labsheet%2005)
 * [Labsheet 06](https://github.com/Dulyaaa/IUP_Labs/tree/main/Labsheet%2006)
+* [Labsheet 07](https://github.com/Dulyaaa/IUP_Labs/tree/main/Labsheet%2007)
