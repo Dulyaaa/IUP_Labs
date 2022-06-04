@@ -7,7 +7,7 @@ There are more than 150 color-space conversion methods available in OpenCV. But 
 will look into only two, which are most widely used ones: BGR ↔ Gray and BGR ↔ HSV.
 
 ### Object Tracking
-• Take each frame of the video.
-• Convert from BGR to HSV color-space.
-• Threshold the HSV image for a range of blue color.
-• Now extract the blue object alone
+* Take each frame of the video.
+* Convert from BGR to HSV color-space.
+* Threshold the HSV image for a range of blue color.
+* Now extract the blue object alone
